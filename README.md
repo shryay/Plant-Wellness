@@ -1,4 +1,4 @@
-### 🌱 Plant Disease Detection System for Sustainable Agriculture  
+# 🌱 Plant Disease Detection System for Sustainable Agriculture  
 
 ## 🚀 Overview  
 The **Plant Disease Detection System** leverages **Convolutional Neural Networks (CNNs)** to accurately detect and classify plant diseases from images of leaves. Designed for precision agriculture, this system aids farmers and agricultural experts in early disease detection and efficient crop management to reduce losses and enhance productivity.  
@@ -102,8 +102,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 📬 Contact
 For any queries or contributions, feel free to reach out:
-Email: connect.shreyaupadhyay@gmail.com
-LinkedIn: Shreya Upadhyay (https://linkedin.com/in/shryay)
+- Email: connect.shreyaupadhyay@gmail.com
+- LinkedIn: Shreya Upadhyay (https://linkedin.com/in/shryay)
 
 ## 🛡️ All Rights Reserved
 © 2024 Shreya Upadhyay. All rights reserved. This project and its contents are protected under copyright law.
